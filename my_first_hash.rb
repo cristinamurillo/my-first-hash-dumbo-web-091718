@@ -1,7 +1,5 @@
 def my_hash
   hash = {"Charli XCX"=>"love", "Xtina"=> "going"}
-
-  
 end
 
 
